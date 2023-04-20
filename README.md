@@ -53,8 +53,10 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</span>
 
+  - TypeScript : 자바스크립트의 타입 에러 발생을 방지하고 디버깅을 용이하게 하기 위해 사용하였습니다. 팀원 모두가 새로운 언어를 학습하기에 어려움도 있었지만 앞선 프로젝트에서 아쉬웠던 점을 보완하기 위해 타입스크립트를 도입하게 되었습니다. <br />
+  - Recoil : 프로젝트가 커지면서 props drilling 문제가 발생하였습니다. 이를 해결하기 위해 상태관리 라이브러리 도입을 고민했고, 기존의 React 문법과 가장 유사하여 사용하기 어려움이 없었던 Recoil을 도입하게 되었습니다.
+</span>
 <br />
 
 ## Tools
